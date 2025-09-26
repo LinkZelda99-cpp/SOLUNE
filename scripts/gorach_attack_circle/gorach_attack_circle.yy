@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gorach_attack_circle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gorach_attack_circle",
+  "parent":{
+    "name":"Bullet",
+    "path":"folders/Scripts/Battle/Bullet.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

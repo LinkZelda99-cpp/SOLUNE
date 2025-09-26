@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gorach_silence",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gorach_silence",
+  "parent":{
+    "name":"Bullet",
+    "path":"folders/Scripts/Battle/Bullet.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

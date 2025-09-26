@@ -1,0 +1,1 @@
+text="{face 1}{font 2}{color `white`}{voice 2}* i have no clue why i'm here!";

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"piano_first_attack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"piano_first_attack",
+  "parent":{
+    "name":"Bullet",
+    "path":"folders/Scripts/Battle/Bullet.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

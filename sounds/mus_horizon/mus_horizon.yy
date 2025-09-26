@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_horizon",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":173.0,
+  "name":"mus_horizon",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_horizon.ogg",
+  "type":0,
+  "volume":1.0,
+}
