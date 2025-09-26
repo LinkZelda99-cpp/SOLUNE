@@ -1,24 +1,24 @@
  "Long ago, the barrier between men and monsters collapsed.",
 
-    "The wall between worlds was no more.",
+ "The wall between worlds was no more.",
 
-    "But the war never left their minds — memories of hatred ran rampant.",
+ "But the war never left their minds — memories of hatred ran rampant.",
 
-    "Humans and monsters clashed, red flooding the earth.",
+ "Humans and monsters clashed, red flooding the earth.",
 
-    "Light and dark collided, birthing a fear that clouded every eye.",
+ "Light and dark collided, birthing a fear that clouded every eye.",
 
-    "Love was eclipsed by hate. Light, eclipsed by shadow. Peace, eclipsed by violence.",
+ "Love was eclipsed by hate. Light, eclipsed by shadow. Peace, eclipsed by violence.",
 
-    "The stars fled in terror from the midnight below.",
+ "The stars fled in terror from the midnight below.",
 
-    "The sun hid its face behind the moon.",
+ "The sun hid its face behind the moon.",
 
-    "Warmth became but a memory.",
+ "Warmth became but a memory.",
 
-    "And both men and monsters wondered...",
+ "And both men and monsters wondered...",
 
-    "Would the light ever shine upon the broken earth again?"
+ "Would the light ever shine upon the broken earth again?"
 
 A surreal journey through light, darkness, and the fragile hope in between.
 
