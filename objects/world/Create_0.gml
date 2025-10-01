@@ -16,7 +16,7 @@ global.intro_skipped = false;
 ini_open("savevar.ini")
 gotoroom = ini_read_real("Var", "roomaftergameover", asset_get_index("room_logo_2"))
 ini_close()
-
+/*jkjkjkjk*/
 if os_type == os_android and global.controlstype = 0{
 	instance_create_depth(0, 0, -400, obj_mobilecontrols_withRbutton)
 }

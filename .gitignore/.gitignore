@@ -1,0 +1,21 @@
+# Build & cache folders
+cache/
+output/
+build/
+
+# Compiled / export files
+*.exe
+*.dll
+*.zip
+*.log
+
+# IDE & editor settings
+.vscode/
+.idea/
+*.user
+*.suo
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
