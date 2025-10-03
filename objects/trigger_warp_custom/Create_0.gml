@@ -12,4 +12,4 @@ bgm_fade=false;
 bgm_fade_time=20;
 warp_wait=0;
 player_dir=-1;
-goto_room=room_logo;
+goto_room=-1;
