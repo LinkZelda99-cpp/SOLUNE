@@ -677,7 +677,9 @@
     {"name":"spr_soul_light","order":6,"path":"sprites/spr_soul_light/spr_soul_light.yy",},
     {"name":"spr_table","order":7,"path":"sprites/spr_table/spr_table.yy",},
     {"name":"spr_testenemy","order":38,"path":"sprites/spr_testenemy/spr_testenemy.yy",},
+    {"name":"spr_tiles_grass_1","order":55,"path":"sprites/spr_tiles_grass_1/spr_tiles_grass_1.yy",},
     {"name":"spr_tiles_grass","order":39,"path":"sprites/spr_tiles_grass/spr_tiles_grass.yy",},
+    {"name":"spr_tiles_road","order":56,"path":"sprites/spr_tiles_road/spr_tiles_road.yy",},
     {"name":"spr_trigger","order":7,"path":"sprites/spr_trigger/spr_trigger.yy",},
     {"name":"spr_tx","order":40,"path":"sprites/spr_tx/spr_tx.yy",},
     {"name":"spr_vignette","order":41,"path":"sprites/spr_vignette/spr_vignette.yy",},
@@ -686,6 +688,8 @@
     {"name":"Sprite146","order":10,"path":"sprites/Sprite146/Sprite146.yy",},
     {"name":"sprtest","order":11,"path":"sprites/sprtest/sprtest.yy",},
     {"name":"warning_slash","order":6,"path":"sprites/warning_slash/warning_slash.yy",},
+    {"name":"tile_grass_1","order":2,"path":"tilesets/tile_grass_1/tile_grass_1.yy",},
+    {"name":"tile_road","order":3,"path":"tilesets/tile_road/tile_road.yy",},
     {"name":"tile_ruins","order":1,"path":"tilesets/tile_ruins/tile_ruins.yy",},
   ],
 }
