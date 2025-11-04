@@ -1,0 +1,1 @@
+bgm = mus_horizon_intro;

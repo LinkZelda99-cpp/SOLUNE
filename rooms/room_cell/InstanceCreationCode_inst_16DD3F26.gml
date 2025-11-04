@@ -1,0 +1,1 @@
+goto_room=room_area_0;

@@ -1,0 +1,13 @@
+videopath = ""
+VideoX = 0
+VideoY = 0
+VideoXscale = 1
+VideoYscale = 1
+Rotation = 0
+Alpha = 0
+Color = c_white
+StopVideos = 0
+VideoPause = false
+RoomVid = room
+Loop = false
+alarm[0] = 1

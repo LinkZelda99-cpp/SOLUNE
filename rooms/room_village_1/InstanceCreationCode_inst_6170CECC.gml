@@ -1,0 +1,1 @@
+landmark_id="e_house_out";

@@ -1,0 +1,1 @@
+landmark_id="E_house_right";

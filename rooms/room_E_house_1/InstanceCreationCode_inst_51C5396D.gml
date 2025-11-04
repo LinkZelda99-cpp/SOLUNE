@@ -1,0 +1,1 @@
+landmark_id="elysia_room_door";

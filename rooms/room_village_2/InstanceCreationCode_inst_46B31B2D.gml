@@ -1,0 +1,1 @@
+landmark_id = "darkness_entrance";

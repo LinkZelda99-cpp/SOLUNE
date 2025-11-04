@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"finish_intro",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"finish_intro",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
