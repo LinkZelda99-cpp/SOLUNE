@@ -674,6 +674,7 @@
     {"id":{"name":"Storage_SetStaticFlag","path":"scripts/Storage_SetStaticFlag/Storage_SetStaticFlag.yy",},},
     {"id":{"name":"Storage_SetTempFlag","path":"scripts/Storage_SetTempFlag/Storage_SetTempFlag.yy",},},
     {"id":{"name":"Storage","path":"scripts/Storage/Storage.yy",},},
+    {"id":{"name":"test","path":"scripts/test/test.yy",},},
     {"id":{"name":"TextTyper_Add","path":"scripts/TextTyper_Add/TextTyper_Add.yy",},},
     {"id":{"name":"Vector3","path":"scripts/Vector3/Vector3.yy",},},
     {"id":{"name":"shd_KawaseDown","path":"shaders/shd_KawaseDown/shd_KawaseDown.yy",},},
