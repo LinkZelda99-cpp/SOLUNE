@@ -940,6 +940,7 @@
     {"roomId":{"name":"room_village_1","path":"rooms/room_village_1/room_village_1.yy",},},
     {"roomId":{"name":"room_village_2","path":"rooms/room_village_2/room_village_2.yy",},},
     {"roomId":{"name":"room_village_3","path":"rooms/room_village_3/room_village_3.yy",},},
+    {"roomId":{"name":"room_village_secret","path":"rooms/room_village_secret/room_village_secret.yy",},},
     {"roomId":{"name":"room_intro_new","path":"rooms/room_intro_new/room_intro_new.yy",},},
     {"roomId":{"name":"room_light_off","path":"rooms/room_light_off/room_light_off.yy",},},
     {"roomId":{"name":"room_cell","path":"rooms/room_cell/room_cell.yy",},},
@@ -956,7 +957,6 @@
     {"roomId":{"name":"room_shop","path":"rooms/room_shop/room_shop.yy",},},
     {"roomId":{"name":"room_swing","path":"rooms/room_swing/room_swing.yy",},},
     {"roomId":{"name":"room_tiles_test","path":"rooms/room_tiles_test/room_tiles_test.yy",},},
-    {"roomId":{"name":"room_village_secret","path":"rooms/room_village_secret/room_village_secret.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[

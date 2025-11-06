@@ -51,10 +51,31 @@ switch(string_lower(_naming_name)){
 		text="The true name.";
 		break;
 	case "elysia":
-		text="This is correct.";
+		text="The child born of darkness&and light";
 		break;
 	case "loser":
 		text="I guess you won't finish...";
+		break;
+	case "abc":
+		text="I'm glad you know your ABCs!";
+		break;
+	case "abcd":
+		text="I'm glad you know your ABCs!";
+		break;
+	case "abcde":
+		text="I'm glad you know your ABCs!";
+		break;
+	case "abcdef":
+		text="I'm glad you know your ABCs!";
+		break;
+	case "hello":
+		text="Hi!";
+		break;
+	case "hi":
+		text="Hi!";
+		break;
+	case "hoi":
+		text="Hi!";
 		break;
 }
 

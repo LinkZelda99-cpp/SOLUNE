@@ -76,12 +76,12 @@ s.ClearData();
 
 if(_menu==1){
 	_inst_naming_title=instance_create_depth(180/2,60/2,0,text_typer);
-	if (global.intro_skipped == false) {
-		_inst_naming_title.text=_prefix+"{color `white`}Name one with this soul.";
-	}
-	else {
+	//if (global.intro_skipped == false) {
+	//	_inst_naming_title.text=_prefix+"{color `white`}Name one with this soul.";
+	//}
+	//else {
 	_inst_naming_title.text=_prefix+"{color `white`}Name the chosen child.";
-	}
+	//}
 	_inst_naming_letters=instance_create_depth(120/2,152/2,0,text_typer);
 	_inst_naming_letters.text=_prefix+"{font 0}{effect 0}{space_x 24}{space_y -2}ABCDEFG&HIJKLMN&OPQRSTU&VWXYZ{space_y -7}&&{space_y -2}abcdefg&hijklmn&opqrstu&vwxyz";
 	_inst_naming_quit=instance_create_depth(120/2,400/2,0,text_typer);
